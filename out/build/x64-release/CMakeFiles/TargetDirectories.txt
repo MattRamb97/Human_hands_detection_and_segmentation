@@ -1,0 +1,5 @@
+C:/Users/tomma/Desktop/Univeristy/1.2 - Computer Vision/CV_workspace/Computer-Vision/TMT_Final_Project/out/build/x64-release/CMakeFiles/TMT_Final_Project.dir
+C:/Users/tomma/Desktop/Univeristy/1.2 - Computer Vision/CV_workspace/Computer-Vision/TMT_Final_Project/out/build/x64-release/CMakeFiles/package.dir
+C:/Users/tomma/Desktop/Univeristy/1.2 - Computer Vision/CV_workspace/Computer-Vision/TMT_Final_Project/out/build/x64-release/CMakeFiles/package_source.dir
+C:/Users/tomma/Desktop/Univeristy/1.2 - Computer Vision/CV_workspace/Computer-Vision/TMT_Final_Project/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/tomma/Desktop/Univeristy/1.2 - Computer Vision/CV_workspace/Computer-Vision/TMT_Final_Project/out/build/x64-release/CMakeFiles/rebuild_cache.dir
