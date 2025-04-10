@@ -1,0 +1,13 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+
+ seen 64, trained: 128 K-images (2 Kilo-batches_64) 
+ Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/mydrive/test/15.jpg: Predicted in 17.599000 milli-seconds.
+hand: 94%	(left_x:  619   top_y:  365   width:  219   height:  177)
+hand: 86%	(left_x:  647   top_y:  266   width:  144   height:  116)
+hand: 97%	(left_x:  891   top_y:  331   width:  159   height:  146)
